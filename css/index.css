@@ -3,7 +3,6 @@
     flex-direction: row;
     justify-content: space-between;
 }
-.tamanhoimagem{
-        height:400px ;
-        width: 400px;  
+.containercarouse{
+    width: 400px;
 }
