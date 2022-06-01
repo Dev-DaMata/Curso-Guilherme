@@ -3,6 +3,8 @@
     flex-direction: row;
     justify-content: space-between;
 }
-.containercarouse{
-    width: 400px;
+.imagemcarouse{
+    object-fit: cover;
+    object-position: 0 80%;
+    height:400px ;
 }
